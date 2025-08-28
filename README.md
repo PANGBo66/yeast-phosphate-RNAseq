@@ -14,5 +14,5 @@ The project leverages industry-standard bioinformatics packages:
 -   **Alignment:** STAR
 -   **Differential Expression:** DESeq2
 -   **Functional Enrichment:** clusterProfiler
--   **Data Visualization:** ggplot2, pheatmap
--   **AI-Assisted Code Development:** ChatGPT (+ GitHub Copilot)
+-   **Data Visualization:** ggplot2
+-   **AI-Assisted Code Development:** ChatGPT 
